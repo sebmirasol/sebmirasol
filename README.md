@@ -7,7 +7,7 @@ Here you will find everything I'm working on. Most projects will be structed lik
 ```
 Project/              
 ├── Concept       --> Project mood✨ board✨: diagrams, images, reference...
-├── Pcb/          --> All hardware/pcb-related stuff
+├── PCB/          --> All hardware/pcb-related stuff
 │   ├── libs
 │   ├── gerber
 │   ├── pdf
