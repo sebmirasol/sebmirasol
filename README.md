@@ -20,4 +20,4 @@ Project/
     └── Print
 ```
 
-You can find me on [Twitter](https://twitter.com/sebmirasol), or on [LinkedIn](www.linkedin.com/in/sebastian-mirasol).
+You can find me on [Twitter](https://twitter.com/sebmirasol), or on [LinkedIn](https://www.linkedin.com/in/sebastian-mirasol/).
